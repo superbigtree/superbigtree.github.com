@@ -1,0 +1,9 @@
+#source: src
+server: true
+auto: true
+title: "Super Big Tree"
+google_analytics_id: UA-XXXXX-X
+baseurl: ""
+exclude:
+- .gitignore
+- README.md
