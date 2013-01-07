@@ -174,9 +174,3 @@ b {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
   letter-spacing: -1px;
 }
-
-
-@media (min-width: 1200px) {
-  .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-  }
-}
