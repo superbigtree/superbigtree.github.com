@@ -2,7 +2,7 @@
 server: true
 auto: true
 title: "Super Big Tree"
-google_analytics_id: UA-XXXXX-X
+google_analytics_id: UA-25237588-3
 baseurl: ""
 exclude:
 - .gitignore
