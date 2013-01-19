@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-  margin: 50px auto;
+  margin: 10px auto;
   background-color: #fff;
   float: none;
   display: block;
@@ -60,6 +60,11 @@ header {
 
 nav.main {
   float: right;
+  line-height: 19px;
+}
+
+nav.main ul {
+  margin: 0px;
 }
 
 nav.main ul li {
@@ -98,6 +103,8 @@ h1.site-name {
 
 nav.secondary {
   float: left;
+  margin-bottom: 30px;
+  display: none;
 }
 
 nav.secondary h1 {
@@ -184,3 +191,31 @@ b {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
   letter-spacing: -1px;
 }
+
+.container {
+  margin: 0px auto;
+}
+
+@media only screen and (min-width: 480px) {
+
+  .wrapper {
+    margin: 50px auto;
+  }
+  
+  .container {
+    width: 400px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .container {
+    width: 800px;
+  }
+}
+
