@@ -159,7 +159,7 @@ ul.tools li {
 
 /* projects */
 .project {
-min-height: 150px;
+min-height: 200px;
 }
 
 .project img {
@@ -173,10 +173,4 @@ min-height: 150px;
 b {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
   letter-spacing: -1px;
-}
-
-
-@media (min-width: 1200px) {
-  .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
-  }
 }
