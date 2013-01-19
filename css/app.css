@@ -1,11 +1,11 @@
 body {
- font: 15px/25px Lora, Georgia, serif;
- color: #333;
- -webkit-font-smoothing: antialiased;
- font-smoothing: antialiased;
- background-image: url("../img/bg.png");
- text-shadow: 1px 1px 0px #fff;
- filter: dropshadow(color=#fff, offx=1, offy=1);
+  font: 15px/25px Lora, Georgia, serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  background-image: url("../img/bg.png");
+  text-shadow: 1px 1px 0px #fff;
+  filter: dropshadow(color=#fff, offx=1, offy=1);
 }
 
 input,
@@ -20,10 +20,20 @@ a {
   text-decoration: none;
 }
 a:hover {
+  text-decoration: none;
 }
 a:active,
 a:focus {
   color: #1e4062;
+}
+
+a h4 {
+  color: #444;
+}
+
+a:hover h4 {
+  color: #000;
+  text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -159,7 +169,7 @@ ul.tools li {
 
 /* projects */
 .project {
-min-height: 200px;
+  min-height: 180px;
 }
 
 .project img {
