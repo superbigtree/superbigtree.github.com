@@ -192,6 +192,11 @@ b {
   letter-spacing: -1px;
 }
 
+blockquote {
+  border: 1px solid #d6d6d3;
+  background-color: #f1f1ed;
+}
+
 .container {
   margin: 0px auto;
 }
