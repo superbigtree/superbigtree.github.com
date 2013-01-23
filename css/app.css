@@ -198,9 +198,6 @@ blockquote p {
 }
 
 code {
-  border: 1px solid #e6e6e3;
-  background-color: #fff;
-  padding: 20px;
   font-family: Monaco, monospace;
   margin: 10px 0px;
 }
