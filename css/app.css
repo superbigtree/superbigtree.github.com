@@ -200,6 +200,10 @@ blockquote {
   margin: 10px 0px;
 }
 
+blockquote p {
+  margin-top: 0px;
+}
+
 .container {
   margin: 0px auto;
 }
