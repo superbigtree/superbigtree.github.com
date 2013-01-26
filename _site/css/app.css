@@ -192,6 +192,18 @@ b {
   letter-spacing: -1px;
 }
 
+blockquote {
+  font-family: Monaco, monospace;
+  margin: 10px 0px;
+  border: 1px solid #e6e6e3;
+  padding: 20px;
+}
+
+blockquote p {
+  margin: 0px;
+  line-height: 30px;
+}
+
 .container {
   margin: 0px auto;
 }
