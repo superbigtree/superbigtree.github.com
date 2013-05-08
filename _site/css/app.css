@@ -15,6 +15,7 @@ textarea {
   font: 15px/25px "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
 }
 
+
 a {
   color: #3c80c3;
   text-decoration: none;
@@ -39,6 +40,71 @@ a:hover h4 {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
   font-weight: 100;
+}
+
+.welcome {
+  margin-top: 80px;
+}
+.welcome h2 {
+  text-align: center;
+  font-size: 32px;
+  line-height: 45px;
+}
+
+.welcome p {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 30px;
+  display: block;
+  width: 80%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.featured-projects {
+  float: left;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 60px;
+}
+
+h4.subheader {
+  text-align: center;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+a.featured-project {
+  background-color: #fcfcf9;
+  padding: 20px;
+  border: 1px solid #efefef;
+  margin: 10px 0px;
+  display: block;
+  color: #888;
+}
+
+
+a.featured-project:hover {
+  color: #666;
+  background-color: #fefefe;
+  border: 1px solid #eaeaea;
+  padding: 20px;
+  margin: 10px 0px;
+}
+
+.featured-project h3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.featured-project p {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
+  font-size: 18px;
 }
 
 .wrapper {
