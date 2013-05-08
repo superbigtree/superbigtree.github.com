@@ -3,8 +3,8 @@ layout: static
 ---
 <div style="float:right;margin-left:20px;"><a href="https://leanpub.com/learnjs"><img src="{{ site.baseurl }}/img/learnjs.jpg" /></a></div>
 
-## learn.js
-### The Javascript Projects Guidebook
+## Learn.js
+### A guidebook to building projects with javascript.
 
 This book should feel like a collection of LEGO guides, like walkthroughs for levels of a video game that gradually increase in difficulty, building on what you learned in previous levels.
 
