@@ -1,7 +1,14 @@
 ---
 layout: static
 ---
-<div style="float:right;margin-left:20px;"><a href="https://leanpub.com/learnjs"><img src="{{ site.baseurl }}/img/learnjs.jpg" /></a></div>
+<div style="float:right;margin-left:30px;">
+  <a href="https://leanpub.com/learnjs">
+    <img src="{{ site.baseurl }}/img/learnjs.jpg" />
+  </a>
+  <div>
+    <iframe width="300" height="400" src="https://leanpub.com/learnjs/embed" frameborder="0">Your browser can't render iframes.</iframe>
+  </div>
+</div>
 
 ## Learn.js
 ### A guidebook to building projects with javascript.
@@ -11,6 +18,8 @@ This book should feel like a collection of LEGO guides, like walkthroughs for le
 The first few chapters of the book will be used as the curriculum for upcoming [Code Tutor workshops](http://codetutor.org), which are introductory javascript courses held in Seattle, WA.
 
 [Sign up to get the book](https://leanpub.com/learnjs).
+
+
 
 ### Goals of the book
 You'll learn:  
