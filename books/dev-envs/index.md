@@ -1,19 +1,25 @@
 ---
 layout: static
 ---
-<div style="float:right;margin-left:30px;">
-  <a href="https://leanpub.com/learnjs">
+<div id="book">
+  <a href="http://gum.co/learnjs/dev-envs">
     <img src="{{ site.baseurl }}/img/dev-envs.cover.300x388.jpg" />
+    <p><strong>Development environments for beginners</strong></p>
+
+    <p><a class="button buy" href="http://gum.co/learnjs/x3v6ugy1">Buy</a> <span class="price">$5</span></p>
   </a>
+  <div id="meta">
+    <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
+    <p>Currently at: <b>41 pages</b>.</p>
+    <p>Version: <b>0.1.0</b>.</p>
+    <p>Last updated: <b>August 17, 2013</b>.</p>
+  </div>
 </div>
 
 ## Development environments for beginners
 ### Set up ruby, javascript, and python development environments
 
 
-[Buy the book](https://leanpub.com/learnjs).
-
-## Why write this?
 When I first started programming, learning the languages was the easy part compared to figuring out text editors, version control, testing, and all the different tools that come along with writing code for a real project.
 
 My goal is for this book to help flatten the learning curve a little, so that going from hello world to a working on a complex application isn't quite as difficult for you as it was for me when I started out.
@@ -36,4 +42,4 @@ Maybe you'll learn that you want to work in all three, or two out of three. What
 - language basics
 - intro to web frameworks
 
-[Sign up to get the book](https://leanpub.com/learnjs).
+{% include about-author-seth.html %}
