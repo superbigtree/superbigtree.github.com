@@ -1,18 +1,19 @@
 body {
-  font: 15px/25px Lora, Georgia, serif;
+  font: 15px/1.3 "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
   color: #333;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
   background-image: url("../img/bg.png");
   text-shadow: 1px 1px 0px #fff;
   filter: dropshadow(color=#fff, offx=1, offy=1);
+  font-weight: 300;
 }
 
 input,
 button,
 select,
 textarea {
-  font: 15px/25px "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
+  font: 15px/1.3 "Open Sans", "Helvetica Neue", Helvetica, arial, sans-serif;
 }
 
 
@@ -218,8 +219,53 @@ footer {
   margin-top: 30px;
 }
 
+#mc_embed_signup {
+  text-align: center;
+  font-size: 2em;
+}
+
 #mc_embed_signup form {
   margin: 0px;
+}
+
+#mc_embed_signup h4 {
+  margin-bottom: 8px;
+}
+
+#mc_embed_signup h6 {
+  margin: 0px 0px 10px 0px;
+}
+
+button,
+.button {
+  background-color: #128a96;
+  text-decoration: none;
+  padding: 15px 25px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  font-size: 18px;
+  border: 0px;
+}
+
+button:hover, 
+button:focus,
+.button:hover, 
+.button:focus {
+  background-color: #7E2054;
+  color: #fff;
+}
+
+input.email {
+  border: 1px solid #ccc;
+  display: inline-block;
+  outline: none;
+  width: 190px;
+  padding: 5px;
+  vertical-align: top;
+  margin-bottom: 15px;
+  font-size: 20px;
+  line-height: 2.050;
 }
 
 ul.tools {
@@ -238,6 +284,31 @@ ul.tools li {
   float: right;
   background-color: #f6f6f3;
   height: 400px;
+}
+
+.center {
+  text-align: center;
+}
+
+/* books */
+
+#books {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.book {
+  display: inline-block
+}
+
+.book a {
+  display: block;
+  margin: 0px 20px;
+}
+
+.book img {
+  width: 250px;
+  height: auto;
 }
 
 /* projects */
@@ -268,6 +339,10 @@ blockquote {
 blockquote p {
   margin: 0px;
   line-height: 30px;
+}
+
+h1#page-title {
+  margin-top: 50px;
 }
 
 .container {
