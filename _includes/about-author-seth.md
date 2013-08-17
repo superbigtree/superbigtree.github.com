@@ -1,4 +1,4 @@
 ### About the author
 Seth Vincent is an independent programmer, designer and writer experienced with a wide range of programming languages, web frameworks, and content management systems. Previously he's worked as a writing tutor and as an advisor of a student news organization, advising on technology, journalism, and leadership. He is a co-organizer of [seattle.io](http://seattle.io), [Code for Seattle](http://codeforseattle.org) and [SeattleWiki](http://seattlewiki.net), and owner of [super big tree](http://superbigtree.com).
 
-Seth's blog: [sethvincent.com](http://sethvincent.com) and twitter: [@sethdvincent](http://twitter.com/sethdvincent).
+Seth's blog: [sethvincent.com](http://sethvincent.com), twitter: [@sethdvincent](http://twitter.com/sethdvincent), and github: [github.com/sethvincent](http://github.com/sethvincent).
