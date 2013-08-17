@@ -42,4 +42,4 @@ You should complete the first few chapters in order. There you'll learn js basic
 
 This book is under active development. Learning to build a project with a certain javascript library is only useful for as long as that library is supported and the best solution to the problem. The tools we use for web development change regularly, and this book will morph along with the standards of the day.
 
-{% include about-author-seth.md %}
+{% include about-author-seth.html %}
