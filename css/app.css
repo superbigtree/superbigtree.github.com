@@ -335,6 +335,21 @@ ul.tools li {
   vertical-align: middle;
 }
 
+#book {
+  width: 250px;
+  float: right;
+  margin-left: 30px;
+}
+
+#book img {
+  width: 100%;
+  height: auto;
+}
+
+#book #meta {
+  font-size: 10px;
+}
+
 /* projects */
 .project {
   min-height: 180px;

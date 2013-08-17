@@ -1,25 +1,31 @@
 ---
 layout: static
 ---
-<div style="float:right;margin-left:30px;">
-  <a href="https://leanpub.com/learnjs">
+<div id="book">
+  <a href="http://gum.co/learnjs/x3v6ugy1">
     <img src="{{ site.baseurl }}/img/learnjs.jpg" />
+    <p><strong>Learn.js: a guidebook for building projects with javascript</strong></p>
+
+    <p><a class="button buy" href="http://gum.co/learnjs/x3v6ugy1">Buy</a> <span class="price">$10</span></p>
   </a>
-  <div>
-    <iframe width="300" height="400" src="https://leanpub.com/learnjs/embed" frameborder="0">Your browser can't render iframes.</iframe>
+  <div id="meta">
+    <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
+    <p>Currently at: <b>102 pages</b> / <b>15,943 words</b>.</p>
+    <p>Version: <b>0.4.1</b> (<a href="http://learnjs.io/releases/v0.4.1">release notes</a>).</p>
+    <p>Last updated: <b>August 5, 2013</b>.</p>
   </div>
 </div>
 
 ## Learn.js
 ### A guidebook to building projects with javascript.
 
-This book should feel like a collection of LEGO guides, like walkthroughs for levels of a video game that gradually increase in difficulty, building on what you learned in previous levels.
+**You know the basics of javascript, but the development tools and design patterns are what slow you down.**
 
-The first few chapters of the book will be used as the curriculum for upcoming [Code Tutor workshops](http://codetutor.org), which are introductory javascript courses held in Seattle, WA.
+Learn javascript tools & patterns through example projects.
 
-[Sign up to get the book](https://leanpub.com/learnjs).
+Learn tools like npm, browserify, grunt, bower, yeoman, and the Chrome Dev Tools, along with common design patterns, creating and integrating content APIs, testing, and animation.
 
-
+The book is currently in-progress, so if you pre-order it now you get all updates for free and can help guide the development of the book by suggesting topics.
 
 ### Goals of the book
 You'll learn:  
@@ -28,25 +34,12 @@ You'll learn:
 - Using javascript/jquery to manipulate html elements.
 - Using javascript for server-side coding.
 - Using developer tools like Git, GitHub, Chrome Dev Tools, Bower, npm, and Grunt.
-- How to build a wide range of projects with javascript, from the server to the client, from game development to data analysis.
+- How to build a wide range of projects with javascript, from the server to the client, from game development to data visualizations.
 
-### Types of projects
-- Mapping with leaflet, mapbox, and google maps.
-- Charts with chart.js, vega.js, and d3.js.
-- Animation with jquery, raphael.js, and other libraries.
-- Simple game development using canvas, svg, animating html elements.
-- Usage of game development frameworks like pixi.js, voxel.js, and others.
-- Writing server-side javascript with node.js.
-- Using web service apis like twitter, tumblr, dropbox, and others.
-- Javascript command line tools.
-- Scraping with javascript.
-- Real-time javascript with websockets.
-- Using node.js tools to build client-side javascript.
-- Creating javascript apps for use in Phonegap/Cordova
 
 ### How to use this book
 You should complete the first few chapters in order. There you'll learn js basics and how to use development tools. After that, you should work on whichever projects interest you most, in the order you choose.
 
 This book is under active development. Learning to build a project with a certain javascript library is only useful for as long as that library is supported and the best solution to the problem. The tools we use for web development change regularly, and this book will morph along with the standards of the day.
 
-[Sign up to get the book](https://leanpub.com/learnjs).
+{% include about-author-seth.md %}
