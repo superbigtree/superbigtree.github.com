@@ -18,15 +18,16 @@ textarea {
 
 
 a {
-  color: #3c80c3;
+  color: #128a96;
   text-decoration: none;
 }
 a:hover {
   text-decoration: none;
+  color: #7E2054;
 }
 a:active,
 a:focus {
-  color: #1e4062;
+  color: #7E2054;
 }
 
 a h4 {
@@ -241,7 +242,9 @@ button,
   display: inline-block;
   font-size: 18px;
   border: 0px;
-  font-weight: 100;
+  font-weight: 300;
+  cursor: pointer;
+  text-shadow: none;
 }
 
 button:hover, 
@@ -299,7 +302,7 @@ ul.tools li {
   margin-bottom: 30px;
 }
 
-.book a {
+.book a.learn {
   display: block;
   margin: 0px 20px;
   width: 250px;
@@ -308,6 +311,28 @@ ul.tools li {
 .book img {
   width: 100%;
   height: auto;
+}
+
+.book a.learn > p {
+  text-align: left;
+  margin-left: 0px;
+}
+
+.book > p {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.learn-more {
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.price {
+  margin-left: 10px;
+  font-size: 2.2em;
+  vertical-align: middle;
 }
 
 /* projects */
