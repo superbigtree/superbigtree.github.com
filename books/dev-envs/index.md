@@ -14,7 +14,7 @@ description: Learn to set up development environments for ruby, javascript, and 
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
     <p>Currently at: <b>52 pages</b>.</p>
     <p>Version: <b>0.1.1</b>.</p>
-    <p>Last updated: <b>August 17, 2013</b>.</p>
+    <p>Last updated: <b>August 18, 2013</b>.</p>
   </div>
 </div>
 
