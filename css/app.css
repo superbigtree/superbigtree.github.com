@@ -323,7 +323,7 @@ ul.tools li {
 .book a.learn {
   display: block;
   margin: 0px;
-  width: 250px;
+  width: 240px;
 }
 
 .book img {
@@ -338,7 +338,6 @@ ul.tools li {
 
 .book > p {
   text-align: left;
-  margin-left: 20px;
 }
 
 .learn-more {
@@ -431,6 +430,10 @@ h1#page-title {
 
   nav.main {
     float: right;
+  }
+
+  .book {
+    margin: 0px 10px 30px 10px;
   }
 }
 
