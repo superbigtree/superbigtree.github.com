@@ -12,8 +12,8 @@ description: Learn to set up development environments for ruby, javascript, and 
   </a>
   <div id="meta">
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
-    <p>Currently at: <b>41 pages</b>.</p>
-    <p>Version: <b>0.1.0</b>.</p>
+    <p>Currently at: <b>52 pages</b>.</p>
+    <p>Version: <b>0.1.1</b>.</p>
     <p>Last updated: <b>August 17, 2013</b>.</p>
   </div>
 </div>
@@ -43,5 +43,15 @@ Maybe you'll learn that you want to work in all three, or two out of three. What
 - testing
 - language basics
 - intro to web frameworks
+
+### Changelog:
+
+#### v0.1.1 - August 18, 2013
+- added language basics to javascript and ruby chapters
+- added a bunch to vagrant chapter
+- added to terminal chapter
+
+#### v0.1.0 - August 17, 2013
+- started all chapters!
 
 {% include about-author-seth.html %}
