@@ -8,7 +8,7 @@ description: Contact Seth Vincent at Super Big Tree about books, projects, & con
 
 Interested in learning more about a project created by Super Big Tree, or want to talk about working together on one of your projects?
 
-### Contact Seth Vincent at Super Big Tree about books, projects, & consulting.
+### Contact Seth Vincent about books, projects, & consulting.
 
 {% include seth.html %}
 
