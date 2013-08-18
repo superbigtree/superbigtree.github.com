@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .welcome {
-  margin-top: 80px;
+  margin-top: 20px;
 }
 .welcome h2 {
   text-align: center;
@@ -61,6 +61,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 80%;
   margin: 0px auto;
   text-align: center;
+}
+
+#welcome-logo {
+  width: 250px;
+  height: auto;
+  display: block;
+  margin: 0px auto;
 }
 
 .featured-projects {
