@@ -1,5 +1,7 @@
 ---
 layout: static
+title: Development environments for beginners
+description: Learn to set up development environments for ruby, javascript, and python.
 ---
 <div id="book">
   <a href="http://gum.co/dev-envs">

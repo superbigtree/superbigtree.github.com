@@ -1,5 +1,7 @@
 ---
 layout: static
+title: Learn.js
+description: Learn.js is a guidebook to building projects with javascript.
 ---
 <div id="book">
   <a href="http://gum.co/learnjs/x3v6ugy1">
