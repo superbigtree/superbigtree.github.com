@@ -5,6 +5,24 @@ layout: embed
 <h1 style="text-align: center; font-weight: 300; color: #656562; font-size: 1.5em;">Check out our books:</h1>
 <h3 style="text-align: center; font-weight: 300; color: #959592; font-size: 1em;">Learn the basics of building projects with javascript and learn about setting up ruby, javascript, and python development environments with our first two books:</h3>
 
-{% include books.html %}
+<ul id="books">
+  <li class="book">
+    <a href="{{ site.baseurl }}/books/learnjs" class="learn" target="_blank">
+      <img src="{{ site.baseurl }}/img/learnjs.jpg" />
+      <p><strong>Learn.js: a guidebook for building projects with javascript</strong></p>
+      <p class="learn-more">Learn more.</p>
+      <p><a class="button buy" href="http://gum.co/learnjs/x3v6ugy1" target="_blank">Buy</a> <span class="price">$10</span></p>
+    </a>
+  </li>
 
-<p style="text-align:center"><a href="http://superbigtree.com">Learn more at superbigtree.com</a></p>
+  <li class="book">
+    <a href="{{ site.baseurl }}/books/dev-envs" class="learn" target="_blank">
+      <img src="{{ site.baseurl }}/img/dev-envs.cover.300x388.jpg" />
+      <p><strong>Development environments for beginners</strong></p>
+      <p class="learn-more">Learn more.</p>
+      <p><a class="button buy" href="http://gum.co/dev-envs" target="_blank">Buy</a> <span class="price">$5</span></p>
+    </a>
+  </li>
+</ul>
+
+<p style="text-align:center"><a href="http://superbigtree.com" target="_blank">Learn more at superbigtree.com</a></p>
