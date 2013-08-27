@@ -21,6 +21,8 @@ description: Learn.js is a guidebook to building projects with javascript.
 ## Learn.js
 ### A guidebook to building projects with javascript.
 
+_This is an early release of a work-in-progress book. Buy it now and you'll get all updates for free! You'll also be able to help guide the direction of the book by requesting content additions and providing feedback._
+
 **You know the basics of javascript, but the development tools and design patterns are what slow you down.**
 
 Learn javascript tools & patterns through example projects.
