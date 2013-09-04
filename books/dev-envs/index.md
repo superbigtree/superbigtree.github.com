@@ -12,9 +12,9 @@ description: Learn to set up development environments for ruby, javascript, and 
   </a>
   <div id="meta">
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
-    <p>Currently at: <b>52 pages</b>.</p>
-    <p>Version: <b>0.1.1</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
-    <p>Last updated: <b>August 18, 2013</b>.</p>
+    <p>Currently at: <b>57 pages</b>.</p>
+    <p>Version: <b>0.1.2</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
+    <p>Last updated: <b>September 3, 2013</b>.</p>
   </div>
 </div>
 
@@ -46,6 +46,10 @@ Maybe you'll learn that you want to work in all three, or two out of three. What
 - intro to web frameworks
 
 ### Changelog:
+
+## v0.1.2 - September 3, 2013
+- added rake, grunt, and fabric sections
+- initial work on python language basics
 
 #### v0.1.1 - August 18, 2013
 - added language basics to javascript and ruby chapters
