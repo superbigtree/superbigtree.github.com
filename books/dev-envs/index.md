@@ -8,7 +8,7 @@ description: Learn to set up development environments for ruby, javascript, and 
     <img src="{{ site.baseurl }}/img/dev-envs.cover.300x388.jpg" />
     <p><strong>Development environments for beginners</strong></p>
 
-    <p><a class="button buy" href="http://gum.co/dev-envs">Buy</a> <span class="price">$5</span></p>
+    <p><a class="button buy" href="http://gum.co/dev-envs">Buy</a> <span class="price">$5+</span></p>
   </a>
   <div id="meta">
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
