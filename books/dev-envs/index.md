@@ -8,13 +8,13 @@ description: Learn to set up development environments for ruby, javascript, and 
     <img src="{{ site.baseurl }}/img/dev-envs.cover.300x388.jpg" />
     <p><strong>Development environments for beginners</strong></p>
 
-    <p><a class="button buy" href="http://gum.co/dev-envs">Buy</a> <span class="price">$5+</span></p>
+    <p><a class="button buy" href="http://gum.co/dev-envs">Buy</a> <span class="price">$10+</span></p>
   </a>
   <div id="meta">
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
-    <p>Currently at: <b>57 pages</b>.</p>
-    <p>Version: <b>0.1.2</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
-    <p>Last updated: <b>September 3, 2013</b>.</p>
+    <p>Currently at: <b>63 pages</b>.</p>
+    <p>Version: <b>0.1.3</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
+    <p>Last updated: <b>September 27, 2013</b>.</p>
   </div>
 </div>
 
@@ -46,6 +46,10 @@ Maybe you'll learn that you want to work in all three, or two out of three. What
 - intro to web frameworks
 
 ### Changelog:
+
+## v0.1.3 - September 27, 2013
+- Add to unittest and other edits in python section
+- Add extended express example to javascript section
 
 ## v0.1.2 - September 3, 2013
 - added rake, grunt, and fabric sections
