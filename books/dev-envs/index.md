@@ -12,9 +12,9 @@ description: Learn to set up development environments for ruby, javascript, and 
   </a>
   <div id="meta">
     <p>Author: <b><a href="http://sethvincent.com" target="_blank">Seth Vincent</a></b>.</p>
-    <p>Currently at: <b>97 pages</b>.</p>
-    <p>Version: <b>0.4.1</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
-    <p>Last updated: <b>February 28, 2014</b>.</p>
+    <p>Currently at: <b>100 pages</b>.</p>
+    <p>Version: <b>0.4.2</b>. (<a href="#changelog" alt="changelog">changelog</a>)</p>
+    <p>Last updated: <b>May 19, 2014</b>.</p>
   </div>
 </div>
 
@@ -46,6 +46,12 @@ Maybe you'll learn that you want to work in all three, or two out of three. What
 - intro to web frameworks
 
 ### Changelog:
+
+### v0.4.2 – May 13, 2014
+- typo fixes submitted by [Jason Li](http://www.hongkonggong.com)
+- fixes from [suisea](https://github.com/suisea)
+- add instructions for viewing the site in the browser to ruby, js, python chapters
+- improve vagrant instructions in ruby, js, python chapters
 
 ### v0.4.1 – February 28, 2014
 - small typo fixes
